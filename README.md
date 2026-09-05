@@ -1,10 +1,8 @@
 <div align="center">
 
-# LEV PROROK
+![LEV PROROK](assets/lev-qa-header.gif)
 
-### Junior QA Engineer
-
-**Technical background → QA**
+</div>
 
 <br>
 
@@ -81,6 +79,14 @@ During testing I focused on game logic, capturing mechanics and edge cases - and
 ### Next steps
 
 **Test Automation · API Testing · Information Security**
+
+---
+
+<div align="center">
+
+![QA Workflow](assets/qa-workflow.gif)
+
+</div>
 
 ---
 
