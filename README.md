@@ -6,6 +6,8 @@
 
 <br>
 
+<div align="center">
+  
 [![GitHub](https://img.shields.io/badge/GitHub-Lavrentyy-181717?style=flat-square&logo=github)](https://github.com/Lavrentyy)
 [![Email](https://img.shields.io/badge/Email-Contact-8B89CC?style=flat-square&logo=gmail&logoColor=white)](mailto:vizher.game@gmail.com)
 
