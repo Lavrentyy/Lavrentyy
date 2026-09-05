@@ -67,7 +67,7 @@ During testing I focused on game logic, capturing mechanics and edge cases — a
 
 **2 functional bugs documented**
 
-→ [View QA Portfolio](https://github.com/Lavrentyy/Portfolio-/tree/main/QA/Checkers3D)
+→ [View QA Portfolio](https://github.com/Lavrentyy/lev-prorok-qa/tree/main/QA/Checkers3D)
 
 ---
 
