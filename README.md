@@ -73,7 +73,10 @@ During testing I focused on game logic, capturing mechanics and edge cases - and
 
 ## ✦ CURRENTLY LEARNING
 
-`SQL` · `Postman` · `DevTools` · `Git`
+[![SQL](https://img.shields.io/badge/SQL-181717?style=flat-square&logo=mysql&logoColor=white)]()
+[![Postman](https://img.shields.io/badge/Postman-181717?style=flat-square&logo=postman&logoColor=white)]()
+[![DevTools](https://img.shields.io/badge/DevTools-181717?style=flat-square&logo=googlechrome&logoColor=white)]()
+[![Git](https://img.shields.io/badge/Git-181717?style=flat-square&logo=git&logoColor=white)]()
 
 ### Next steps
 
