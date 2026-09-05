@@ -37,18 +37,17 @@ I enjoy the investigative side of testing: reproducing problems, checking differ
 
 ## ✦ WHAT I'M INTO
 
-🧪 **Manual Testing**
+[![Manual Testing](https://img.shields.io/badge/Manual_Testing-181717?style=flat-square)]()
+[![Functional Testing](https://img.shields.io/badge/Functional_Testing-181717?style=flat-square)]()
+[![Exploratory Testing](https://img.shields.io/badge/Exploratory_Testing-181717?style=flat-square)]()
+[![Regression Testing](https://img.shields.io/badge/Regression_Testing-181717?style=flat-square)]()
+[![Game QA](https://img.shields.io/badge/Game_QA-181717?style=flat-square)]()
 
-Functional · Exploratory · Regression · Game Testing
-
-🐛 **Test Documentation**
-
-Test Cases · Checklists · Bug Reports
-
-💻 **IT & Troubleshooting**
-
-Windows · Linux · TCP/IP · DNS · DHCP · VPN
-
+[![Windows](https://img.shields.io/badge/Windows-181717?style=flat-square&logo=windows&logoColor=white)]()
+[![Linux](https://img.shields.io/badge/Linux-181717?style=flat-square&logo=linux&logoColor=white)]()
+[![TCP/IP](https://img.shields.io/badge/TCP%2FIP-181717?style=flat-square)]()
+[![DNS](https://img.shields.io/badge/DNS-181717?style=flat-square)]()
+[![VPN](https://img.shields.io/badge/VPN-181717?style=flat-square)]()
 🎮 **Game QA**
 
 Unreal Engine 5 · Gameplay Logic · Edge Cases
