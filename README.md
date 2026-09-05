@@ -27,7 +27,7 @@
 
 I'm an IT specialist with a background in Information Systems and Programming.
 
-I spent a year working in system administration and technical support — troubleshooting software and hardware, supporting users, working with Windows and Astra Linux, and dealing with networks.
+I spent a year working in system administration and technical support - troubleshooting software and hardware, supporting users, working with Windows and Astra Linux, and dealing with networks.
 
 Now I'm taking that experience into QA.
 
@@ -63,7 +63,7 @@ Unreal Engine 5 · Gameplay Logic · Edge Cases
 
 A practical QA project based on a 3D checkers game for two players on the same PC.
 
-During testing I focused on game logic, capturing mechanics and edge cases — and documented the issues I found.
+During testing I focused on game logic, capturing mechanics and edge cases - and documented the issues I found.
 
 **2 functional bugs documented**
 
