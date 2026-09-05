@@ -23,7 +23,7 @@
 
 ---
 
-## ✦ A LITTLE ABOUT ME
+## ✦ A FEW THINGS ABOUT ME
 
 I'm an IT specialist with a background in Information Systems and Programming.
 
