@@ -48,6 +48,7 @@ I enjoy the investigative side of testing: reproducing problems, checking differ
 [![TCP/IP](https://img.shields.io/badge/TCP%2FIP-181717?style=flat-square)]()
 [![DNS](https://img.shields.io/badge/DNS-181717?style=flat-square)]()
 [![VPN](https://img.shields.io/badge/VPN-181717?style=flat-square)]()
+
 🎮 **Game QA**
 
 Unreal Engine 5 · Gameplay Logic · Edge Cases
