@@ -105,6 +105,6 @@ Technical support · Windows · Astra Linux · Networks · Hardware & Software T
 
 ### Open to Junior QA / QA Intern opportunities
 
-📧 **vizher.game@gmail.com**
+📧 **prorok.lev.work@gmail.com**
 
 </div>
